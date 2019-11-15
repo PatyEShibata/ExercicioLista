@@ -1,0 +1,15 @@
+//Método que retorne os nomes das cores que você mais gosta
+    
+//Método que dado uma lista retorne a quantidade de itens
+    
+//Método que receba 3 String, adicione todos em uma lista e remova a segunda posição
+    
+//Método que imprima a lista de cores do primeiro método
+    
+//Método que imprima as cores do primeiro método em ordem alfabética
+    
+//Método que receba uma lista das cores que você mais gosta e o nome de uma cor a ser removida
+    
+//Método que receba a lista de cores que você gosta e imprima em ordem decrescente (alfabética)
+    
+//Método que receba uma lista de números e retorne um mapa com listas de números pares e impares
